@@ -1,0 +1,7 @@
+{
+  "name": "Mood Music Player",
+  "description": "An intelligent music player that detects your mood from your facial expression using the Gemini API and plays a matching Spotify playlist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
